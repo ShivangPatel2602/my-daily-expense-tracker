@@ -1,0 +1,57 @@
+.expense_div {
+    background-color: rgb(4, 4, 107);
+    padding-bottom: 517px;
+}
+
+.expense_div__heading {
+    color: white;
+    padding-top: 30px;
+    margin-left: 100px;
+}
+
+.expense_form {
+    border-radius: 20px;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 40px;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 100px;
+    width: 700px;
+    height: 400px;
+}
+
+.expense_form__input {
+    height: 50px;
+    width: 250px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    margin-left: 90px;
+}
+
+.expense_form__text {
+    margin-bottom: 40px;
+}
+
+.expense_form__button {
+    background-color: red;
+    color: white;
+    height: 65px;
+    width: 200px;
+    margin-top: 35px;
+    margin-left: 90px;
+    border-radius: 15px;
+    transition: all 0.2s ease-in-out;
+}
+
+.additional {
+    margin-bottom: 0;
+    width: 450px;
+    height: 70px;
+}
+
+.expense_form__button:hover {
+    transition: all 0.2s ease-in-out;
+    background-color: yellow;
+    color: black;
+}

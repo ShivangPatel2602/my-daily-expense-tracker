@@ -1,0 +1,48 @@
+.financial_advice {
+    text-align: center;
+    background-color: rgb(83, 53, 219);
+}
+
+.heading {
+    padding-top: 50px;
+    color: white;
+}
+
+.advice {
+    border: 5px solid white;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    width: 650px;
+    height: 100px;
+    margin-left: 470px;
+    margin-right: 500px;
+    margin-top: 40px;
+    font-size: 20px;
+    background-color: rgb(218, 68, 88);
+    transition: all 0.2s ease-in-out;
+}
+
+.advice:hover {
+    width: 700px;
+    height: 110px;
+    transition: all 0.2s ease-in-out;
+}
+
+.return_button {
+    font-size: 25px;
+    color: white;
+    background-color: purple;
+    border-radius: 15px;
+    height: 70px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.return_button:hover {
+    width: 300px;
+    height: 74px;
+    background-color: rgb(154, 226, 20);
+    transition: all 0.2s ease-in-out;
+}
